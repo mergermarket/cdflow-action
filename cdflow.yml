@@ -1,0 +1,6 @@
+name: 'cdflow'
+description: 'Install cdflow in the virtual env'
+
+runs:
+  using: 'node12'
+  main: 'index.js'
