@@ -1,9 +1,8 @@
-const { exec } = require('child_process');
-
+const child_process = require('child_process');
 
 try {
 
-    exec('pip3 install --user --upgrade setuptools wheel | sudo pip3 install cdflow')
+    child_process.execSync('pip3 install --user --upgrade setuptools wheel | sudo pip3 install cdflow')
 
 }catch {
 
