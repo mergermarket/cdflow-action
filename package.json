@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mergermarket/cdflow-action.git"
+    "url": "git+https://github.com/actions/javascript-action.git"
   },
   "keywords": [],
   "author": "",
