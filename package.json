@@ -19,7 +19,7 @@
   "homepage": "https://github.com/mergermarket/cdflow-action#readme",
   "dependencies": {
     "@actions/core": "^1.1.3",
-    "@actions/github": "^1.1.0",
+    "@actions/github": "^5.0.0",
     "child_process": "^1.0.2"
   }
 }
